@@ -9,6 +9,8 @@ public class GitDemo {
         System.out.println("master提交了一次冲突合并代码");
 
         System.out.println("hot-fix提交一个冲突合并代码");
+        System.out.println("hot-fix2第一次提交了冲突代码");
+
 
     }
 }
