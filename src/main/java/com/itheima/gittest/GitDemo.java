@@ -10,6 +10,8 @@ public class GitDemo {
 
         System.out.println("hot-fix提交一个冲突合并代码");
         System.out.println("master在hot-fix2之后又提交了一次冲突代码");
+        System.out.println("hot-fix2第一次提交了冲突代码");
+
 
     }
 }
