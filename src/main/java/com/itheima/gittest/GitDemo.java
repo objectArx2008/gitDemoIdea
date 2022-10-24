@@ -6,5 +6,7 @@ public class GitDemo {
         System.out.println("master第2次提交");
         System.out.println("master第3次提交");
 
+        System.out.println("master提交了一次冲突合并代码");
+
     }
 }
